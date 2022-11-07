@@ -1,0 +1,1 @@
+# vanilla-frontend-project-template-1
